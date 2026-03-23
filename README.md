@@ -2,7 +2,7 @@
 
 ### *Intelligent Real-time Response Orchestration with Streaming Decision Agents & Online Replanning*
 
-![Title Animation](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/main/images/title-animation.gif)
+![Title Animation](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/fdf3c6b407930b8e14fac8a9810ab1423b9413eb/images/title-animation.gif)
 
 ## 📌 Overview
 
@@ -14,7 +14,7 @@ In a wildfire scenario, conditions (wind, fire spread, fuel) change by the secon
 
 The system is designed as a multi-agent state machine where state is shared and updated through a unified graph:
 
-![Architecture](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/main/images/architecture_diagram.png)
+![Architecture](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/fdf3c6b407930b8e14fac8a9810ab1423b9413eb/images/architecture_diagram.png)
 
 ### Key Components:
 1.  **Sensor Ingest Node**: Processes high-frequency telemetry (thermal, wind, humidity).
@@ -26,7 +26,7 @@ The system is designed as a multi-agent state machine where state is shared and 
 
 The interaction between the environment simulation and the agentic core follows a strictly cyclical feedback loop:
 
-![Sequence](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/main/images/sequence_diagram.png)
+![Sequence](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/fdf3c6b407930b8e14fac8a9810ab1423b9413eb/images/sequence_diagram.png)
 
 ## 🚀 Key Features
 
@@ -65,7 +65,7 @@ The interaction between the environment simulation and the agentic core follows 
 
 The following flowchart illustrates the internal decision-making process for triggering a replan:
 
-![Flow](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/main/images/flow_diagram.png)
+![Flow](https://raw.githubusercontent.com/aniket-work/WildfireGuard-AI/fdf3c6b407930b8e14fac8a9810ab1423b9413eb/images/flow_diagram.png)
 
 ---
 
